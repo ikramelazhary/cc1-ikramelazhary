@@ -11,10 +11,10 @@ const App = () => {
       {/* Conteneur de boutons stylisés */}
       <div className="button-container">
         <Link to="/composant1">
-          <button className="component-button">Liste des Salariés</button>
+          <button className="component-button">Gestion des Voitures</button>
         </Link>
         <Link to="/composant2">
-          <button className="component-button">Gestion des Voitures</button>
+          <button className="component-button">Liste des Salariés</button>
         </Link>
         <Link to="/composant3">
           <button className="component-button">Recherche par Service</button>
